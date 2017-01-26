@@ -7,5 +7,6 @@ Team conventions: Newest Last
 
 ## New Components
 -   Created new changelog(JD)
+-   Changed the website from Static to Trivial views using CodeIgniter - MC
     
 ## Updated Components
